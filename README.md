@@ -14,6 +14,5 @@ Tools
 
 
 
-
-https://github.com/rishadappat/MLKitDocumentScanner/assets/12482829/5246fae1-362c-4234-a3db-d712e0bc5a61
+https://github.com/rishadappat/MLKitDocumentScanner/assets/12482829/fb44edd0-b87d-4a45-8be8-a21fce5a7df2
 
