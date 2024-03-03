@@ -13,3 +13,7 @@ Tools
   4. Used Version Catalog for handling library dependencies
 
 
+
+
+https://github.com/rishadappat/MLKitDocumentScanner/assets/12482829/5246fae1-362c-4234-a3db-d712e0bc5a61
+
