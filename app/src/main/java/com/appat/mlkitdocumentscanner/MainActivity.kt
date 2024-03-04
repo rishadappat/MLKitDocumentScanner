@@ -76,7 +76,7 @@ fun MLKitDocumentScannerContent() {
     val activity = LocalContext.current as MainActivity
     val options = remember {
         GmsDocumentScannerOptions.Builder()
-            .setGalleryImportAllowed(false)
+            .setGalleryImportAllowed(true)
             .setResultFormats(RESULT_FORMAT_PDF)
             .setScannerMode(SCANNER_MODE_FULL)
             .build()
